@@ -1,0 +1,5 @@
+---
+applications:
+ - name: ticketapi2wa
+   random-route: true
+   memory: 128M
